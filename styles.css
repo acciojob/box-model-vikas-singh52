@@ -1,10 +1,10 @@
 /*  your css code here. If applicable */
 .container{
 	width:80vw;
-	background-color:lightgrayrey;
+	background-color:lightgray;
 	border:3px solid black;
 	border-radius:20px;
-	padding:20px;
+	padding:50px;
 	margin:20px;
 	display:flex;
 	justify-content:center;
